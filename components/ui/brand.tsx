@@ -13,7 +13,7 @@ export function Brand({ footer = false }: { footer?: boolean }) {
         alt=""
         className="brand-logo"
         height={38}
-        src="/logo.svg"
+        src="/logo.jpg"
         width={38}
       />
       <span className="brand-copy">

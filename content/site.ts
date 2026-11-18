@@ -36,11 +36,11 @@ export type ClientLogo = {
 };
 
 const business = {
-  name: "[BUSINESS NAME]",
+  name: "IR Electronics",
   tagline: "[TAGLINE]",
-  phone: "[PHONE]",
-  whatsapp: "[WHATSAPP]",
-  email: "[EMAIL]",
+  phone: "+919968189924",
+  whatsapp: "+919968189924",
+  email: "info@irelectronics.com",
   address: "[ADDRESS]",
   city: "[CITY, STATE]",
   hours: "[HOURS]",
